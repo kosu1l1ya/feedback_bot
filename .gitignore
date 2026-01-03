@@ -1,0 +1,33 @@
+# Environment variables
+.env
+credentials.json
+
+# Virtual environment
+venv/
+env/
+*.pyc
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Python
+*.egg-info/
+dist/
+build/
+
+# Temp files
+temp/
+tmp/
